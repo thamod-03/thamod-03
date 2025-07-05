@@ -47,19 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thamod-03&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamod-03&layout=compact&theme=tokyonight" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thamod-03&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
 - 📧 Email: `thamodidusara@gmail.com`  
