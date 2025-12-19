@@ -29,6 +29,13 @@
 
 ## 🌟 Featured Projects
 
+### 🔗 [Tronic-Hub](https://tronic-hub-frontend.vercel.app/)
+> A full-stack MERN E-Commerce web application with authentication, image uploads, and email integration.
+🛠️ **Tech**: React (Vite), Node.js, Express, MongoDB  
+📊 Features: JWT Auth, Cloudinary image uploads, EmailJS & Nodemailer, REST API
+
+---
+
 ### 🔗 [URL Shortener](https://url-shortener-navy-kappa.vercel.app/)
 > A sleek URL shortening app with Supabase authentication and real-time click tracking.  
 🛠️ **Tech**: React, Express, Supabase, MongoDB  
